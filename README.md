@@ -23,7 +23,7 @@
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/Esvar200/Vadhandhi.AI-A-Multi-Modal-Fake-News-Verification-System
-    cd MultiModal_FakeNews_Verification_System
+    cd Vadhandhi.AI-A-Multi-Modal-Fake-News-Verification-System
     ```
 
 2. **Install Dependencies**:
