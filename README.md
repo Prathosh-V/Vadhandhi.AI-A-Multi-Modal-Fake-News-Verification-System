@@ -37,7 +37,7 @@
     ```
 
 4. **Follow the On-Screen Instructions**:
-   - Provide the news input in text, image, or audio format.
+   - Provide the news input in text, image, or audio format (only .wav for audio and .jpg, .jpeg, .png for images)
    - The system will process the input using the RAG approach and display whether the news is true or false, along with additional links for further verification.
 
 ## File Structure
