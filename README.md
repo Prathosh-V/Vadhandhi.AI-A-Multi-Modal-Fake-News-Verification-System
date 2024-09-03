@@ -1,3 +1,4 @@
+[vadhandhi.ai.webm](https://github.com/user-attachments/assets/f320b7fd-73e7-40de-a24e-73e09bb3e36c)
 # Vadhandhi.AI-A-Multi-Modal-Fake-News-Verification-System
 **Multi-Modal Fake News Verification System** is an advanced tool designed to verify the authenticity of news using text, image, and audio inputs. The system leverages the Retrieval-Augmented Generation (RAG) approach to detect fake news by comparing user-provided content against legitimate news sources.
 
